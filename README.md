@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuamccluskey
 - 👀 I’m interested in software delvelopment.
 - 🌱 I’m currently learning data structures and more.
-- 💞️ I’m looking to collaborate on anything for project based learning.
+- 💞️ I’m looking to collaborate with anyone for project based learning.
 - 📫 How to reach me: josh.c.mccluskey@gmail.com
 
 <!---
