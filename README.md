@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuamccluskey
 - 👀 I’m interested in software delvelopment.
-- 🌱 I’m currently learning data structures and more.
+- 🌱 I’m currently learning about data structures and frameworks.
 - 💞️ I’m looking to collaborate with anyone for project based learning.
 - 📫 How to reach me: jpiff57@gmail.com
 
