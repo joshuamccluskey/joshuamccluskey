@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="style.css">
+
+
 - 👋 Hi, I’m @joshuamccluskey
 - 👀 I’m interested in software delvelopment.
 - 🌱 I’m currently learning to obtain AWS certifications.
