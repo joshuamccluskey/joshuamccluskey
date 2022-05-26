@@ -1,4 +1,17 @@
-<link rel="stylesheet" href="style.css">
+<style>
+  img {
+  display: flex;
+  flex-direction: row;
+}
+
+/* Responsive layout - makes a one column layout instead of a two-column layout */
+@media (max-width: 800px) {
+  img {
+    flex-direction: column;
+  }
+}
+
+</style>
 
 
 - 👋 Hi, I’m @joshuamccluskey
@@ -6,6 +19,8 @@
 - 🌱 I’m currently learning to obtain AWS certifications.
 - 💞️ I’m looking to collaborate with anyone for project based learning.
 - 📫 How to reach me: jpiff57@gmail.com
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="100"/>
