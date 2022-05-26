@@ -1,16 +1,6 @@
 <style>
-  img {
-  display: flex;
-  flex-direction: row;
-}
-
-/* Responsive layout - makes a one column layout instead of a two-column layout */
-@media (max-width: 800px) {
-  img {
-    flex-direction: column;
-  }
-}
-
+  h1 {color:red;}
+  p {color:blue;}
 </style>
 
 
