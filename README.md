@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with anyone for project based learning.
 - 📫 How to reach me: jpiff57@gmail.com
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg =100x20)
 
 <!---
 joshuamccluskey/joshuamccluskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
