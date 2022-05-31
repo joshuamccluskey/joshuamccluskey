@@ -10,7 +10,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div style="background-color=white;">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="100" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="100" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" alt="Gradle" width="100" align="left"/>
@@ -28,6 +28,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="100" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node "  width="100" align="left"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshuamccluskey&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!---
 joshuamccluskey/joshuamccluskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
