@@ -9,6 +9,11 @@
 
 ---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshuamccluskey&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="100" align="left"/>
@@ -29,13 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node "  width="100" align="left"/>
 </div>
 
----
 
-- ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshuamccluskey&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
 
 
 
