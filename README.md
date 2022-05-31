@@ -33,11 +33,12 @@
 <br>
 ### :fire: My Stats :
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshuamccluskey&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-joshuamccluskey&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ---
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-joshuamccluskey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 joshuamccluskey/joshuamccluskey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
