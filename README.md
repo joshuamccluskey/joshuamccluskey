@@ -7,7 +7,9 @@
 - Catch me on [LinkedIn](https://www.linkedin.com/in/joshua-mccluskey/)
 - [Personal Website](https://www.joshmccluskey.com/)
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="100" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="100" align="left"/>
