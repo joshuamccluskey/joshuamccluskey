@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Joshua McCluskey
 - 👀 I’m interested in full stack application development and cloud development.
 - 🌱 I’m currently learning to obtain AWS certifications.
-- 💞️ I’m looking to collaborate with anyone interested in cloud development.
+- 🌎 I’m looking to collaborate with anyone interested in cloud development.
 - 📫 How to reach me: jpiff57@gmail.com
 - Catch me on [LinkedIn](https://www.linkedin.com/in/joshua-mccluskey/)
 - [Personal Website](https://www.joshmccluskey.com/)
