@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m Joshua McCluskey
+- 👋 Hi, I’m Joshua McCluskey.
 - 🍃 I’m a Certified MongoDB Consulting Engineer.
 - 🌎 I’m looking to collaborate with anyone interested in development and Kuberenetes.
 - 📫 How to reach me: jpiff57@gmail.com
