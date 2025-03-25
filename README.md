@@ -10,7 +10,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joshuamccluskey&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joshuamccluskey&theme=merko)](https://git.io/streak-stats)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
