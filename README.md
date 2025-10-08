@@ -5,11 +5,6 @@
 - 📫 How to reach me: jpiff57@gmail.com
 - Catch me on [LinkedIn](https://www.linkedin.com/in/joshua-mccluskey/)
 - [Personal Website](https://www.joshmccluskey.com/)
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joshuamccluskey&theme=dark)](https://git.io/streak-stats)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
